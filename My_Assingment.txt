@@ -1,7 +1,4 @@
 --> This is my Git Assignment.
-<<<<<<< HEAD
 ----> This is My First Branch.
 ----> This is My Second Branch.
-=======
-----> This is My First Branch.
->>>>>>> MyBranch-1
+----> This is My Third Branch.
